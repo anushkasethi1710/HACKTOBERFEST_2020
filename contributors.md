@@ -5,3 +5,4 @@
 | IbadMukrom         | [@IbadMukrom](https://github.com/IbadMukrom)                   |</br>
 | Sarnav Dutta       | [@sarnav98](https://github.com/sarnav98)                       |</br>
 | Shubham Rawat      | [@shubhamrawat5](https://github.com/Shubhamrawat5)             |</br>
+| Anushka Sethi      | [@anushkasethi1710](https://github.com/anushkasethi1710)       |</br>
